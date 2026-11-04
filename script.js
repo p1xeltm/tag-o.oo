@@ -1,4 +1,4 @@
-const START_DATE = "2026-10-29";
+const START_DATE = "2026-11-07";
 const record = "7monate21tage";
 const MILESTONES = [1, 19, 37];
 
