@@ -2,7 +2,7 @@ const START_DATE = "2026-11-07";
 const record = "7monate21tage";
 const MILESTONES = [1, 19, 37];
 
-const SCALE_PADDING = 9;
+const SCALE_PADDING = 4;
 const rawMin = Math.min(...MILESTONES);
 const rawMax = Math.max(...MILESTONES);
 const min = Math.max(0, rawMin - SCALE_PADDING);
